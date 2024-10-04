@@ -1,1 +1,1 @@
-# collaborate
+# Collaborative note taking app
